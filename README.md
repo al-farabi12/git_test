@@ -1,0 +1,1 @@
+This is Al-Farabi’s first git project!
